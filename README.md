@@ -1,6 +1,6 @@
 # python-unittest-mocking-classroom
 
-IMPORTANT NOTE: Please install 'pip install mysql-connector-python' inside venv before running db_helper.py as it imports that module.
+# IMPORTANT NOTE: Please install 'pip install mysql-connector-python' inside venv before running db_helper.py as it imports that module.
 
 Note it's preferred to use Git bash terminal when on Windows. You can download it from [here](https://git-scm.com/downloads). 
 
