@@ -9,6 +9,7 @@ Also, Python3.7 should be installed and added to PATH.
 
 
 ### Goal
+* IMPORTANT NOTE: Please install 'pip install mysql-connector-python' inside venv before running db_helper.py as it import that module.
 * Fork the project.
 * Clone the repo.
 * Create a child(feature) branch from master branch.
